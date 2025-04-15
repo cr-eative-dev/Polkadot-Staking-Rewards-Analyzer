@@ -1,10 +1,10 @@
 # Polkadot Validator Rewards Analyzer
 
-dAPP for analyzing, comparing, and tracking validator performance and rewards on the Polkadot Relay Chain.
+dApp for analyzing, comparing, and tracking validator performance and rewards on the Polkadot Relay Chain.
 
 ## Overview
 
-this dAPP allows nominators to make data-driven decisions when selecting validators for staking. Built using React, TypeScript, and the latest Polkadot API (`polkadot-api`) aka PAPI, you will find a nice interface for comparing validators based on performance metrics such as rewards, APY, and commission rates across multiple eras.
+this dApp allows nominators to make data-driven decisions when selecting validators for staking. Built using React, TypeScript, and the latest Polkadot API (`polkadot-api`) aka PAPI, you will find a nice interface for comparing validators based on performance metrics such as rewards, APY, and commission rates across multiple eras.
 
 ## Features
 
@@ -78,8 +78,8 @@ calculating accurate APY was a significant focus:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/polkadot-validator-rewards-analyzer.git
-cd polkadot-validator-rewards-analyzer
+git clone https://github.com/cr-eative-dev/polkadot-staking-rewards-analyzer.git
+cd polkadot-staking-rewards-analyzer
 ```
 
 2. Install dependencies:
