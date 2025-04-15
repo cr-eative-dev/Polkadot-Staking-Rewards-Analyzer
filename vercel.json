@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "buildCommand": "npx papi && npm run build",
+    "framework": "vite",
+    "installCommand": "npm install",
+    "output": "dist"
+  }
