@@ -87,6 +87,8 @@ cd polkadot-validator-rewards-analyzer
 yarn install
 # or
 npm install
+
+npx papi
 ```
 
 3. Start the development server:
