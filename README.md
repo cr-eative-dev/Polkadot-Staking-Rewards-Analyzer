@@ -127,4 +127,4 @@ contributions are welcome - feel free to submit a PR
 
 ## License
 
-this project is licensed under the MIT License - see the LICENSE file for details.# polkadot-staking-rewards-analyzer
+this project is licensed under the MIT License - see the LICENSE file for details.
