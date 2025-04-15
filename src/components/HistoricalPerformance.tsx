@@ -60,7 +60,7 @@ export const HistoricalPerformance: React.FC<HistoricalPerformanceProps> = ({
         if (!validator) return 0;
 
         const points = Object.entries(validator.performance.previousErasPoints)
-            .filter(([era, points]) => showInactiveEras || points > 0)
+            .filter(([_, points]) => showInactiveEras || points > 0)
             .map(([_, points]) => points);
 
         if (points.length === 0) return 0;
