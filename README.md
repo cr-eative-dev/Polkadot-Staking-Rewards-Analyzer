@@ -30,7 +30,7 @@ this dApp allows nominators to make data-driven decisions when selecting validat
 
 ### Architecture
 
-the dAPP has a modular architecture:
+the dApp has a modular architecture:
 
 - **stores** - central state management with Zustand
 - **components** - reusable UI elements
@@ -109,8 +109,6 @@ npm run build
 ```
 
 ## Future Improvements
-
-given more time, I would enhance the dAPP with:
 
 1. **Wallet Integration** - connect with Polkadot browser extension to populate user accounts
 2. **Nominator Status Check** - show whether an address can nominate and current nomination status
